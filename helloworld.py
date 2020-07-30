@@ -1,0 +1,5 @@
+print('Hello World')
+print(3+2)
+print(9*10)
+print()
+print("over", "this or", "end", 5)
